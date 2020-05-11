@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Project131Application",
+            "request": "launch",
+            "mainClass": "com.obss.jss.project13_1.Project131Application",
+            "projectName": "project13_1"
+        }
+    ]
+}
